@@ -15,54 +15,54 @@ El taller tiene una duración de 4 dias, cada sesión dura aproximadamente 5 hor
 
 El valor del taller es de $50.000
 
-Profesor: Gonzalo Ramírez Restucci - Ing. informatico y Artista medial. Trabaja con sistemas Linux desde el año 1998. Desde el año 2008 se ha dedicado con su proyecto [resist](http://www.resist.cl) a la asesoria y desarrollo en materias tecnológicas a personas e instituciones relacionadas a las areas creativas.
+###Profesor:
+Gonzalo Ramírez Restucci
+Ing. informatico y Artista medial. Trabaja con sistemas Linux desde el año 1998. Desde el año 2008, con su proyecto [resist.cl](http://www.resist.cl), se ha dedicado a la asesoria y desarrollo en materias tecnológicas a personas e instituciones relacionadas a las areas creativas.
 
-Contenidos:
-Día 1
-Instalación de GNU/Linux Debian sobre VirtualBox
-Introduccion al sistema de archivos
-comandos básicos
-permisos de archivos
-shell
-configuracion del sistema (entendiendo el directorio “etc”)
-cat/more/grep
-vim
+###Contenidos:
 
-Día 2
-SSH
-servicios de red
+####Día 1
+* Instalación de GNU/Linux Debian sobre VirtualBox
+* Introduccion al sistema de archivos
+* comandos básicos
+* permisos de archivos
+* shell
+* configuracion del sistema (entendiendo el directorio “etc”)
+* cat/more/grep
+* vim
 
-cron
+####Día 2
+* SSH
+* servicios de red
+* cron
 
+####Día 3
 
+* servidor web
+* servidor ftp
 
-Día 3
-
-servidor web
-servidor ftp
-
-Día 4
+####Día 4
 
 
-Use tiny computers without screens or keyboards
-Walk through a computer's files, reading contents
-Install, uninstall, start and stop programs
-Create, rename, copy and remove files and folders
-Command remote computers over encrypted channels
-Write powerful and portable scripts
-Chat privately with friends on servers
-Implement automation, make remote machines slaves
-Shutdown or reboot computers over the network
-Capture images and video from cameras
-Stream, encode and post-process audio and video
-Create and edit text files on remote machines
-Log key-presses, sensor data and other events
-Filter, process and stream program output
-Customise and localise your CLI environment
-Manage users and permissions
-Archive and encrypt files and folders
-Send email, serve files and web-pages
-Securely move data across networks
-Enable and disable hardware and devices
-Scare friends and family
+* Use tiny computers without screens or keyboards
+* Walk through a computer's files, reading contents
+* Install, uninstall, start and stop programs
+* Create, rename, copy and remove files and folders
+* Command remote computers over encrypted channels
+* Write powerful and portable scripts
+* Chat privately with friends on servers
+* Implement automation, make remote machines slaves
+* Shutdown or reboot computers over the network
+* Capture images and video from cameras
+* Stream, encode and post-process audio and video
+* Create and edit text files on remote machines
+* Log key-presses, sensor data and other events
+* Filter, process and stream program output
+* Customise and localise your CLI environment
+* Manage users and permissions
+* Archive and encrypt files and folders
+* Send email, serve files and web-pages
+* Securely move data across networks
+* Enable and disable hardware and devices
+* Scare friends and family
 

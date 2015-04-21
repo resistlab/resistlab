@@ -11,6 +11,7 @@
 }
 
 .site-title {
+    display: none;
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
@@ -21,6 +22,14 @@
     &:visited {
         color: $grey-color-dark;
     }
+}
+
+.site-logo {
+    display: block;
+    @include media-query($on-palm) {
+        margin-top: 2rme;
+    }
+    margin-top: 1rem;
 }
 
 .site-nav {
