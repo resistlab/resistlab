@@ -1,16 +1,20 @@
+.hero-front { font-style: italic;}
+
 .mugshot {
-  float: left;
-  border-radius: 50%;
-  max-width: 200px;
-  height: auto;
   border: 2px solid #000;
+  border-radius: 50%;
+  float: left;
+  height: auto;
   margin-right: 2rem;
+  max-width: 200px;
 }
 
 abbr {
   border-bottom: 1px dashed #000;
 }
 
-.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:before,
+.clearfix:after { content: ""; display: block; height: 0; overflow: hidden; }
+
 .clearfix:after { clear: both; }
 .clearfix { zoom: 1; }

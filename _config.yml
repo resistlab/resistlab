@@ -2,14 +2,14 @@
 title: resist lab
 email: lab@resist.cl
 description: > # this means to ignore newlines until "baseurl:"
-  resist lab es un espacio de creación y aprendizaje sobre tecnologías aplicadas a las areas creativas.
+  resist lab es un espacio de creación/educación sobre nuevas tecnologías 
+  aplicadas a las areas creativas, activismo y cultura.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lab.resist.cl" # the base hostname & protocol for your site
 twitter_username: resist_cl
 github_username:  resistlab
 facebook_username: resistlab
+address: Los Algarrobos 2220, Barrio Huemul, Santiago.
 
 # Build settings
 markdown: kramdown
-
-address: Los Algarrobos 2220, Barrio Huemul, Santiago.
