@@ -18,3 +18,7 @@ abbr {
 
 .clearfix:after { clear: both; }
 .clearfix { zoom: 1; }
+
+.button { padding: .5rem; border: 1px solid #2a7ae2; border-radius: 3px; color: #2a7ae2;
+  &:visited { border: 1px solid #1756a9}
+}

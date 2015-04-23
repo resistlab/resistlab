@@ -2,7 +2,7 @@
 title: resist lab
 email: lab@resist.cl
 description: > # this means to ignore newlines until "baseurl:"
-  resist lab es un espacio de creación/educación sobre nuevas tecnologías 
+  resist lab es un espacio de creación / educación sobre nuevas tecnologías 
   aplicadas a las areas creativas, activismo y cultura.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lab.resist.cl" # the base hostname & protocol for your site
