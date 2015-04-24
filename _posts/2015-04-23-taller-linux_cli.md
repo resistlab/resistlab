@@ -4,6 +4,7 @@ title:  "Taller: Linux desde la linea de comandos"
 categories: talleres
 permalink: /talleres/linux-cli
 excerpt: <p>Sin duda la mejor manera de utilizar Linux es a través de la linea de comandos. Toma el control sobre tu sistema, sus archivos, redes, eventos, servicios y programas. ¿Quieres sacarle el máximo provecho a tu Raspberry Pi? ¿Quieres entender de una buena vez como funciona Linux? Entonces este taller es para ti.</p>
+image: /images/talleres/linuxcli01.png
 ---
 
 ####Este taller práctico / intensivo te enseñará a trabajar con la línea de comandos, la manera más versátil y directa de utilizar un sistema operativo de la familia Unix.
