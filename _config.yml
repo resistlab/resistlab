@@ -9,6 +9,7 @@ twitter_username: resist_lab
 github_username:  resistlab
 facebook_username: resistlab
 address: Los Algarrobos 2220, Barrio Huemul, Santiago.
+image: /images/resistlab-generic.png
 
 # Build settings
 markdown: kramdown

@@ -39,9 +39,9 @@
   {% endif %}
 
   {% if page.image %}
-  <meta property="og:image" content="{{ page.image }}" />
+  <meta property="og:image" content="{{ page.image | prepend: site.url }}" />
   {% else %}
-  <meta property="og:image" content="/images/resistlab-generic.png" />
+  <meta property="og:image" content="{{ site.image | prepend: site.url }}" />
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
