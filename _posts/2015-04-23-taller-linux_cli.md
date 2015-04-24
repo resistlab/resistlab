@@ -23,7 +23,7 @@ Aprenderás todo lo necesario para perderle el miedo, conocerás los principales
 
 No es necesario ningún tipo de conocimiento previo para realizar este taller, solo una mente despierta y un computador portátil con el software [VirtualBox](http://www.virtualbox.org) (disponible sin costo para Mac/Win/Linux).
 
-El taller tiene una duración de 4 días, sábado y domingo. Cada sesión dura aproximadamente 5 horas, comenzando a las 11:00, 1 hora para comer / compartir / conversar y finalizar alrededor de las 18:00.
+El taller dura 4 días, los días sábado y domingo (16, 17, 23 y 24 de Mayo). Cada sesión dura aproximadamente 5 horas, comenzando a las 11:00, 1 hora para comer / compartir / conversar y finalizar alrededor de las 18:00.
 
 Además se plantea una continuidad del taller a través de una plataforma online, desde donde los participantes podrán plantear preguntas y compartir experiencias, a modo de profundizar lo aprendido durante el tiempo existente entre las fechas del taller.
 
@@ -60,7 +60,7 @@ Además se plantea una continuidad del taller a través de una plataforma online
 * Laboratorio práctico (ejercicios varios)
 
 ####Fechas:
-16, 17, 23 y 24 de Mayo (sábados y domingos)
+16, 17, 23 y 24 de Mayo (sábado y domingo)
 11:00 a 18:00 hrs.
 
 ####Lugar:
