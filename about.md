@@ -2,6 +2,7 @@
 layout: page
 title: about
 permalink: /about/
+menu: main
 ---
 
 ####{{ site.description }}
