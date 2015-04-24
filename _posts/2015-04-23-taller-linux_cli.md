@@ -12,6 +12,8 @@ excerpt: <p>Sin duda la mejor manera de utilizar Linux es a través de la linea 
 >
 > -- Dr. Johnson
 
+![linux cli](/images/talleres/linuxcli01.png)
+
 La linea de comandos es la parte más importante de un sistema Unix (Linux, BSD, OS X, etc). A través de esta obtienes acceso a todo lo que sucede a bajo nivel en el sistema, pudiendo modificar y utilizar cada parte de este para cumplir específicamente con tus necesidades. Es absolutamente necesaria para utilizar al 100% la mayoría de los dispositivos que componen la llamada “Internet de las cosas”: Raspberry Pi, Arduino Yun, Beaglebone, varios Routers y una larga lista que crece prácticamente todos los días.
 
 Muchas veces considerada como una habilidad solo para expertos, capaz de generar temor y asombro ante los ojos de quienes no la conocen, la verdad es que solo dominando este "arte" podrás obtener todo el control sobre el sistema, sus archivos, redes, eventos, servicios y programas.
