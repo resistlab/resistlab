@@ -4,7 +4,7 @@ title: lista de correos
 permalink: /mailing/
 ---
 
-Mantente informado sobre nuestras actividades, recibiras noticias nuestras en tu correo solo cuando sea necesario. Odiamos el spam tanto como tu.
+Mantente informado sobre nuestras actividades, recibirás noticias nuestras en tu correo solo cuando sea necesario. Odiamos el spam tanto como tu.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">

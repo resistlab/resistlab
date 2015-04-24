@@ -3,7 +3,7 @@ layout: post
 title:  "Taller: Linux desde la linea de comandos"
 categories: talleres
 permalink: /talleres/linux-cli
-excerpt: <p>Sin duda la mejor manera de utilizar Linux es a través de la linea de comandos. Toma el control sobre tu sistema, sus archivos, redes, eventos, servicios y programas. ¿Quieres sacarle el maximo provecho a tu Raspberry Pi? ¿Quieres entender de una buena vez como funciona Linux? Entonces este taller es para ti.</p>
+excerpt: <p>Sin duda la mejor manera de utilizar Linux es a través de la linea de comandos. Toma el control sobre tu sistema, sus archivos, redes, eventos, servicios y programas. ¿Quieres sacarle el máximo provecho a tu Raspberry Pi? ¿Quieres entender de una buena vez como funciona Linux? Entonces este taller es para ti.</p>
 ---
 
 ####Este taller práctico / intensivo te enseñará a trabajar con la línea de comandos, la manera más versátil y directa de utilizar un sistema operativo de la familia Unix.
@@ -12,11 +12,11 @@ excerpt: <p>Sin duda la mejor manera de utilizar Linux es a través de la linea 
 >
 > -- Dr. Johnson
 
-La linea de comandos es la parte más importante de un sistema Unix (Linux, BSD, OS X, etc). A través de esta obtienes acceso a todo lo que sucede a bajo nivel en el sistema, pudiendo modificar y utilizar cada parte de este para cumplir especificamente con tus necesidades. Es absolutamente necesaria para utilizar al 100% la mayoria de los dispositivos que componen la llamada “Internet de las cosas”: Raspberry Pi, Arduino Yun, Beaglebone, varios Routers y una larga lista que crece prácticamente todos los días.
+La linea de comandos es la parte más importante de un sistema Unix (Linux, BSD, OS X, etc). A través de esta obtienes acceso a todo lo que sucede a bajo nivel en el sistema, pudiendo modificar y utilizar cada parte de este para cumplir específicamente con tus necesidades. Es absolutamente necesaria para utilizar al 100% la mayoría de los dispositivos que componen la llamada “Internet de las cosas”: Raspberry Pi, Arduino Yun, Beaglebone, varios Routers y una larga lista que crece prácticamente todos los días.
 
-Muchas veces considerada como una habilidad solo para expertos, capaz de generar temor y asombro ante los ojos de quienes no la conocen, la verdad es que solo dominando este "arte" podras obtener todo el control sobre el sistema, sus archivos, redes, eventos, servicios y programas.
+Muchas veces considerada como una habilidad solo para expertos, capaz de generar temor y asombro ante los ojos de quienes no la conocen, la verdad es que solo dominando este "arte" podrás obtener todo el control sobre el sistema, sus archivos, redes, eventos, servicios y programas.
 
-Aprenderas todo lo necesario para perderle el miedo, conoceras los principales comandos, componentes y metodos de trabajo, podras operar con sistemas locales y remotos, incluso computadores que no tienen pantalla ni teclado, entendiendo como configurarlos y ponerlos a tu servicio, para lo que sea.
+Aprenderás todo lo necesario para perderle el miedo, conocerás los principales comandos, componentes y métodos de trabajo, podrás operar con sistemas locales y remotos, incluso computadores que no tienen pantalla ni teclado, entendiendo como configurarlos y ponerlos a tu servicio, para lo que sea.
 
 No es necesario ningún tipo de conocimiento previo para realizar este taller, solo una mente despierta y un computador portátil con el software [VirtualBox](http://www.virtualbox.org) (disponible sin costo para Mac/Win/Linux).
 
@@ -47,7 +47,7 @@ Además se plantea una continuidad del taller a través de una plataforma online
 * SSH / acceso a sistemas remotos
 * Raspberry Pi
 * tmux
-* Introduccion a las redes
+* Introducción a las redes
 * Servicios de red
 * Servidor web/ftp
 * Logs del sistema
@@ -68,7 +68,7 @@ Los Algarrobos 2220, Barrio Huemul, Santiago (Metro Franklin)
 El valor del taller es de $60.000  
 Numero de cupos disponibles: 8
 
-####Inscripciónes:
+####Inscripciones:
 [Inscribete aquí](http://goo.gl/forms/Sy49DSiGM2){:target="_blank"}
 
 ###Profesor:
