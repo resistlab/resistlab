@@ -40,10 +40,10 @@ Además se plantea una continuidad del taller a través de una plataforma online
 
 ####Día 2
 * Expresiones regulares (regex)
-* cat / grep / sed / awk / pipes
+* redirección / pipes / grep / sed / awk
 * vim
-* Configuración del sistema (entendiendo el directorio “etc”)
-* cron
+* Configuración del sistema (el directorio “etc”)
+* cron / init.d
 * Instalando / Compilando programas
 
 ####Día 3
