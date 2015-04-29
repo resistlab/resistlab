@@ -29,16 +29,15 @@ Además se plantea una continuidad del taller a través de una plataforma online
 
 ###Contenidos:
 
-####Día 1
+####Día 1 (16 de Mayo)
 * Instalación de Debian GNU/Linux sobre VirtualBox
-* Sistema de archivos
 * Comandos básicos
-* Permisos de archivos
-* Variables de ambiente
+* Sistema de archivos (estructura y permisos)
 * Shell scripts
+* Variables de ambiente
 * root / su / sudo
 
-####Día 2
+####Día 2 (17 de Mayo)
 * Expresiones regulares (regex)
 * redirección / pipes / grep / sed / awk
 * vim
@@ -46,16 +45,15 @@ Además se plantea una continuidad del taller a través de una plataforma online
 * cron / init.d
 * Instalando / Compilando programas
 
-####Día 3
+####Día 3 (23 de Mayo)
 * SSH / acceso a sistemas remotos
 * Raspberry Pi
 * tmux
 * Introducción a las redes
-* Servicios de red
-* Servidor web/ftp
+* Servicios de red (web/ftp/etc)
 * Logs del sistema
 
-####Día 4
+####Día 4 (24 de Mayo)
 * Mantención del sistema
 * Laboratorio práctico (ejercicios varios)
 
@@ -75,7 +73,6 @@ Numero de cupos disponibles: 8
 [Inscribete aquí](http://goo.gl/forms/Sy49DSiGM2){:target="_blank"}
 
 ###Profesor:
-
 ![Gonzalo Ramírez](/images/controla.jpg){:.mugshot}
 
 __Gonzalo Ramírez Restucci__
