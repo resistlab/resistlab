@@ -9,7 +9,7 @@ image: /images/talleres/arduino-ws01.jpg
 
 ![arduino](/images/talleres/arduino-ws01.jpg)
 
-Aprenderas a trabajar con Arduino, entender que significan sus entradas y salidas, analogas y digitales, como utilizarlas para controlar distintos elementos electronicos y como obtener datos desde diferentes tipos componentes, sensores, actuadores, etc.
+Aprenderas a trabajar con Arduino, como programarlo, entender que significan sus entradas y salidas analogas y digitales, como utilizarlas para controlar distintos elementos electronicos y como obtener datos desde diferentes tipos de componentes, sensores, actuadores, etc.
 
 ####Fecha:
 Sábado 14 de Noviembre
