@@ -8,7 +8,7 @@ url: "http://lab.resist.cl" # the base hostname & protocol for your site
 twitter_username: resist_lab
 github_username:  resistlab
 facebook_username: resistlab
-address: Chile.
+address: .
 image: /images/resistlab-generic.png
 
 # Build settings
