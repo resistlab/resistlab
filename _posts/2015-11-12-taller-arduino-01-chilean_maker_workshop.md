@@ -11,13 +11,13 @@ image: /images/talleres/arduino-ws01.jpg
 
 Aprenderas a trabajar con Arduino, como programarlo, entender que significan sus entradas y salidas analogas y digitales, como utilizarlas para controlar distintos elementos electronicos y como obtener datos desde diferentes tipos de componentes, sensores, actuadores, etc.
 
-####Fecha:
+#### Fecha:
 Sábado 14 de Noviembre
 11:00 a 18:00 hrs.
 
-####Lugar:
+#### Lugar:
 Chilean Maker Workshop, Carmen 1871, Santiago.
 [ver mapa](https://www.google.cl/maps/place/Carmen+1871,+Santiago,+Regi%C3%B3n+Metropolitana/@-33.4694611,-70.6385886,17z/data=!3m1!4b1!4m2!3m1!1s0x9662c5437454a67d:0x54d47c8b1acc722b){:target="_blank"}
 
-####Valor:
+#### Valor:
 El taller es gratis. Si, Gratis.

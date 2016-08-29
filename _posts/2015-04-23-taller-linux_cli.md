@@ -7,7 +7,7 @@ excerpt: <p>Sin duda la mejor manera de utilizar Linux es a través de la linea 
 image: /images/talleres/linuxcli01.png
 ---
 
-####Este taller práctico / intensivo te enseñará a trabajar con la línea de comandos, la manera más versátil y directa de utilizar un sistema operativo de la familia Unix.
+#### Este taller práctico / intensivo te enseñará a trabajar con la línea de comandos, la manera más versátil y directa de utilizar un sistema operativo de la familia Unix.
 
 > hash bang slash bin slash bash
 >
@@ -27,9 +27,9 @@ El taller dura 4 días, los días sábado y domingo (16, 17, 23 y 24 de Mayo). C
 
 Además se plantea una continuidad del taller a través de una plataforma online, desde donde los participantes podrán plantear preguntas y compartir experiencias, a modo de profundizar lo aprendido durante el tiempo existente entre las fechas del taller.
 
-###Contenidos:
+### Contenidos:
 
-####Día 1 (16 de Mayo)
+#### Día 1 (16 de Mayo)
 * Instalación de Debian GNU/Linux sobre VirtualBox
 * Comandos básicos
 * Sistema de archivos (estructura y permisos)
@@ -37,7 +37,7 @@ Además se plantea una continuidad del taller a través de una plataforma online
 * Variables de ambiente
 * root / su / sudo
 
-####Día 2 (17 de Mayo)
+#### Día 2 (17 de Mayo)
 * Expresiones regulares (regex)
 * redirección / pipes / grep / sed / awk
 * vim
@@ -45,7 +45,7 @@ Además se plantea una continuidad del taller a través de una plataforma online
 * cron / init.d
 * Instalando / Compilando programas
 
-####Día 3 (23 de Mayo)
+#### Día 3 (23 de Mayo)
 * SSH / acceso a sistemas remotos
 * Raspberry Pi
 * tmux
@@ -53,26 +53,26 @@ Además se plantea una continuidad del taller a través de una plataforma online
 * Servicios de red (web/ftp/etc)
 * Logs del sistema
 
-####Día 4 (24 de Mayo)
+#### Día 4 (24 de Mayo)
 * Mantención del sistema
 * Laboratorio práctico (ejercicios varios)
 
-####Fechas:
+#### Fechas:
 16, 17, 23 y 24 de Mayo (sábado y domingo)
 11:00 a 18:00 hrs.
 
-####Lugar:
+#### Lugar:
 Los Algarrobos 2220, Barrio Huemul, Santiago (Metro Franklin)  
 [ver mapa](https://www.google.cl/maps/place/Los+Algarrobos+2220,+Santiago,+Regi%C3%B3n+Metropolitana/@-33.4748454,-70.6511198,17z/data=!3m1!4b1!4m2!3m1!1s0x9662c5397c13e00d:0xe3eafeaddb686c8c){:target="_blank"}
 
-####Valor:
+#### Valor:
 El valor del taller es de $60.000  
 Numero de cupos disponibles: 8
 
-####Inscripciones:
+#### Inscripciones:
 [Inscribete aquí](http://goo.gl/forms/Sy49DSiGM2){:target="_blank"}
 
-###Profesor:
+### Profesor:
 ![Gonzalo Ramírez](/images/controla.jpg){:.mugshot}
 
 __Gonzalo Ramírez Restucci__
